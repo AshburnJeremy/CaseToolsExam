@@ -5,6 +5,7 @@ public class Fruit_Rbca19106 {
 	{
 	this.color=color;
 	}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
